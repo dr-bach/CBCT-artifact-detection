@@ -3,3 +3,4 @@
 Program identifies artifacts (caused by motion, metal and the machine itself) in CBCT. Images were taken on a Varian Halcyon.
  The model (~100MB) can be found at https://markusbach.com/MLModel.zip
  For details on binary image classification, see https://github.com/dotnet/machinelearning-samples
+ For general information on ML.net, see https://github.com/dotnet/machinelearning
